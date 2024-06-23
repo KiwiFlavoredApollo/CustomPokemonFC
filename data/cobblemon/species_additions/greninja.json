@@ -1,0 +1,52 @@
+{
+    "target": "cobblemon:greninja",
+    "features": ["tossian"],
+    "forms": [
+        {
+            "name": "Toss",
+            "primaryType": "water",
+            "secondaryType": "dark",
+            "abilities": [
+                "torrent",
+                "h:protean"
+            ],
+            "baseStats": {
+                "hp": 72,
+                "attack": 95,
+                "defence": 67,
+                "special_attack": 103,
+                "special_defence": 71,
+                "speed": 122
+            },
+            "catchRate": 45,
+            "maleRatio": 0.875,
+            "baseExperienceYield": 239,
+            "experienceGroup": "medium_slow",
+            "baseFriendship": 70,
+            "evYield": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "special_attack": 0,
+                "special_defence": 0,
+                "speed": 3
+            },
+            "height": 15,
+            "weight": 400,
+            "cannotDynamax": false,
+            "eggCycles": 20,
+            "eggGroups": [
+                "water_1"
+            ],
+            "labels": [
+                "custom"
+            ],
+            "aspects": [
+                "tossian"
+            ],
+            "pokedex": [
+                "cobblemon.species.greninja.desc"
+            ]            
+        }
+    ]
+  }
