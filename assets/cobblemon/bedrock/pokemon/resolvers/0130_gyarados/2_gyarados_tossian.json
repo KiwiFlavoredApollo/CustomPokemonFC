@@ -1,0 +1,15 @@
+{
+    "species": "cobblemon:gyarados",
+    "order": 2,
+    "variations": [
+      {
+        "aspects": [
+            "tossian"
+        ],
+        "poser": "cobblemon:gyarados",
+        "model": "cobblemon:gyarados_male.geo",
+        "texture": "cobblemon:textures/pokemon/0130_gyarados/gyarados_tossian.png",
+        "layers": []
+      }
+    ]
+   }
