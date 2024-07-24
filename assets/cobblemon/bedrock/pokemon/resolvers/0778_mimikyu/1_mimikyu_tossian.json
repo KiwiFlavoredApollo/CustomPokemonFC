@@ -3,7 +3,7 @@
     "order": 0,
     "variations": [
       {
-        "aspects": [],
+        "aspects": ["tossian"],
         "poser": "cobblemon:mimikyu",
         "model": "cobblemon:mimikyu.geo",
         "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_tossian.png",
