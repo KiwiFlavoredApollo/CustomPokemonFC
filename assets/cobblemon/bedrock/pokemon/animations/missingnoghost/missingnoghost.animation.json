@@ -21,7 +21,7 @@
 						"3.0": [0, -0.53125, 0]
 					}
 				},
-				"bone": {
+				"head": {
 					"position": {
 						"0.0": [0, 1, 0],
 						"1.0": [0, 4.15625, 0],
@@ -62,6 +62,12 @@
 					}
 				}
 			}
+		},
+		"animation.missingnoghost.ground_walk": {
+			"loop": true
+		},
+		"animation.missingnoghost.faint": {
+			"loop": true
 		}
 	}
 }
