@@ -1,0 +1,14 @@
+{
+    "species": "cobblemon:missingnoghost",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:missingnoghost",
+        "model": "cobblemon:missingnoghost.geo",
+        "texture": "cobblemon:textures/pokemon/missingnoghost/missingnoghost.png",
+        "layers": []
+      }
+    ]
+  }
+  
