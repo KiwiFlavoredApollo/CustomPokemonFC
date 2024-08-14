@@ -35,7 +35,7 @@
             "cannotDynamax": false,
             "eggCycles": 20,
             "eggGroups": [
-              "amorphous"
+                "amorphous"
             ],          
             "labels": [
                 "custom"
@@ -48,4 +48,4 @@
             ]            
         }
     ]
-  }
+}
