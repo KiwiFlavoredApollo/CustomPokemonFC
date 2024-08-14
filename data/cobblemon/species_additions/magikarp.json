@@ -1,0 +1,25 @@
+{
+    "target": "cobblemon:magikarp",
+    "evolutions": [
+        {
+            "id": "magikarp_gyarados_tossian",
+            "variant": "level_up",
+            "result": "gyarados tossian",
+            "consumeHeldItem": true,
+            "permanent": true,
+            "learnableMoves": [
+                "bite"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 20
+                },
+                {
+                    "variant": "held_item",
+                    "itemCondition": "minecraft:wither_rose"
+                }
+            ]
+        }
+    ]
+}

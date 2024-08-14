@@ -1,0 +1,25 @@
+{
+    "target": "cobblemon:frogadier",
+    "evolutions": [
+        {
+            "id": "frogadier_greninja_tossian",
+            "variant": "level_up",
+            "result": "greninja tossian",
+            "consumeHeldItem": true,
+            "permanent": true,
+            "learnableMoves": [
+                "watershuriken"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 36
+                },
+                {
+                    "variant": "held_item",
+                    "itemCondition": "minecraft:wither_rose"
+                }
+            ]
+        }
+    ]
+}
